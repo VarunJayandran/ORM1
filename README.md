@@ -44,4 +44,3 @@ admin.site.register(product,productadmin)
 ![alt text](<Screenshot 2026-05-29 094804.png>)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
-![alt text](<Screenshot 2026-05-29 094804.png>)
